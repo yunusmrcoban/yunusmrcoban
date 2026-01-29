@@ -27,34 +27,6 @@ I'm passionate about detection engineering, threat intelligence, incident respon
 
 ---
 
-## 🌟 Featured Repositories
-
-- [⚙️ wazuh-custom](https://github.com/yunusmrcoban/wazuh-custom)  
-  Custom Wazuh rules and decoders for enhancing detection capabilities.  
-  Focus: `Blue Team` · `SIEM` · `Automation`
-
-- [🔍 deepdarkCTI](https://github.com/yunusmrcoban/deepdarkCTI)  
-  A curated collection of cyber threat intelligence from the deep and dark web.  
-  Forked from `fastfire/deepdarkCTI`
-
-- [🛡️ RansomwareMonitor](https://github.com/yunusmrcoban/RansomwareMonitor)  
-  A bot that tracks ransomware groups’ public disclosures.  
-  Forked from `soufianetahiri/RansomwareMonitor`
-
-- [🔬 nuclei](https://github.com/yunusmrcoban/nuclei)  
-  Fast and customizable vulnerability scanner based on simple YAML templates.  
-  Forked from `projectdiscovery/nuclei`
-
----
-
-## 🔁 Forked Repositories I Learn From
-
-- [Velociraptor](https://github.com/yunusmrcoban/velociraptor) — DFIR and endpoint visibility platform  
-- [Malware-IOCs](https://github.com/yunusmrcoban/Malware-IOCs) — Malware indicators collection  
-- [sigma](https://github.com/yunusmrcoban/sigma) — Generic SIEM detection rule format  
-
----
-
 ## 📚 Learning & Sharing
 
 - 🧠 Focused on: Detection engineering, CTI automation, DFIR workflows, EDR integrations  
