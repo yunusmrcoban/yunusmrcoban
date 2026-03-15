@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yunus Emre ÇOBAN
 
-🎯 Cybersecurity Engineer | 🛡️ Blue Team Specialist | 🧠 Threat Intelligence Enthusiast
+🎯 Cybersecurity Researcher
 
 I'm passionate about detection engineering, threat intelligence, incident response, red teaming and blue team automation. I actively share and contribute to open-source cybersecurity resources.
 
