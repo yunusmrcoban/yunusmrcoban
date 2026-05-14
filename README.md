@@ -20,13 +20,6 @@ I'm passionate about detection engineering, threat intelligence, incident respon
 
 ---
 
-## 📊 GitHub Stats
-
-![Yunus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunusmrcoban&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusmrcoban&layout=compact&theme=radical)
-
----
-
 ## 📚 Learning & Sharing
 
 - 🧠 Focused on: Detection engineering, CTI automation, DFIR workflows, EDR integrations  
