@@ -23,7 +23,6 @@ I'm passionate about detection engineering, threat intelligence, incident respon
 ## 📚 Learning & Sharing
 
 - 🧠 Focused on: Detection engineering, CTI automation, DFIR workflows, EDR integrations  
-- ✍️ Reusable detection rules and notes: [GitHub Gists](https://gist.github.com/yunusmrcoban)
 
 ---
 
